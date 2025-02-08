@@ -1,0 +1,4 @@
+rich
+websocket-client
+requests
+concurrent.futures
